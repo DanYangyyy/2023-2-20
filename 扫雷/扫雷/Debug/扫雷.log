@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+D:\编程\C语言\2023-2-20\扫雷\扫雷\test.c(49,9): warning C4102: “defaut”: 未引用的标签
+  正在生成代码...
+  扫雷.vcxproj -> D:\编程\C语言\2023-2-20\扫雷\Debug\扫雷.exe
